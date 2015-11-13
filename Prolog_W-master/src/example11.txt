@@ -1,0 +1,15 @@
+AAA
+13
+CCC && DDD => AAA
+HHH => CCC
+FFF && GGG => DDD
+CCC && III => GGG
+JJJ && KKK && III => FFF
+GGG && DDD => MMM
+NNN => OOO
+HHH
+JJJ
+KKK
+LLL
+III
+~NNN

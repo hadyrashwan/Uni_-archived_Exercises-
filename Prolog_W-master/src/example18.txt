@@ -1,0 +1,8 @@
+AAA
+6
+BBB => AAA
+CCC => AAA
+DDD => AAA
+~BBB
+~DDD
+~CCC

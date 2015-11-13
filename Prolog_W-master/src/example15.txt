@@ -1,0 +1,23 @@
+AAA
+21
+JJJ && GGG => III
+III && QQQ => RRR
+PPP => QQQ
+HHH => PPP
+HHH && EEE => GGG
+BBB && CCC && DDD => AAA
+DDD && FFF => EEE
+JJJ && KKK => BBB
+KKK && OOO => JJJ
+LLL && NNN => KKK
+MMM => LLL
+MMM && LLL => DDD
+PPP && SSS => MMM
+NNN => MMM
+OOO && MMM => FFF
+OOO => NNN
+OOO && FFF => HHH
+LLL => CCC
+~TTT
+OOO
+~SSS

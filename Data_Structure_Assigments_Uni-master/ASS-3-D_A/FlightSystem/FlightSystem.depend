@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400606692 source:/home/hady/Documents/dAta str &alg/ASS-3-D_A/FlightSystem/main.cpp
+	<string>
+	<stdio.h>
+	<iostream>
+

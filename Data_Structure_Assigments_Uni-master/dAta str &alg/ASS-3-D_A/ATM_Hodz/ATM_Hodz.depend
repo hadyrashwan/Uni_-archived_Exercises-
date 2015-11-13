@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403905881 source:/home/hady/Documents/dAta str &alg/ASS-3-D_A/ATM_Hodz/main.cpp
+	<string>
+	<stdio.h>
+	<iostream>
+

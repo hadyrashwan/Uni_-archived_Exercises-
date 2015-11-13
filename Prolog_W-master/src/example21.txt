@@ -1,0 +1,20 @@
+DDD
+18
+AAA && GGG => BBB
+BBB && HHH => CCC
+CCC && III => DDD
+DDD && JJJ => EEE
+EEE && FFF => AAA
+FFF => GGG
+GGG => HHH
+HHH => III
+III => JJJ
+JJJ => FFF
+KKK => FFF
+LLL => EEE
+MMM => CCC
+NNN => HHH
+KKK
+LLL
+~MMM
+~NNN
